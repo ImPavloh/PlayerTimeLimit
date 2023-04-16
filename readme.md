@@ -1,11 +1,20 @@
+<div align="center">
+
 # PlayerTimeLimit
+
+![PTL-Logo](https://www.spigotmc.org/data/resource_icons/109/109315.jpg?1681676883)
+
+<a href="https://github.com/ImPavloh/PlayerTimeLimit"><img src="https://img.shields.io/github/stars/ImPavloh/PlayerTimeLimit?style=social"></a>
+<a href="https://twitter.com/ImPavloh" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
+
+</div>
 
 Este plugin permite establecer un tiempo de juego máximo para los jugadores y ofrece comandos para administradores con el fin de gestionar y verificar el tiempo restante de los jugadores.
 
 ## Características
 
 - Establece un límite de tiempo de juego para jugadores en el servidor.
-- Muestra el tiempo restante a los jugadores usando una barra de jefe (BossBar).
+- Muestra el tiempo restante a los jugadores usando un BossBar.
 - Comandos para administradores:
   - `/tiempo resetear <jugador>`: Reinicia el tiempo de juego del jugador especificado.
   - `/tiempo ver <jugador>`: Muestra el tiempo restante del jugador especificado.
