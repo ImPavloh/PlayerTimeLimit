@@ -14,7 +14,7 @@ Este plugin permite establecer un tiempo de juego máximo para los jugadores y o
 
 ## Instalación
 
-1. Descarga la última versión del plugin PlayerTimeLimit desde [GitHub](https://github.com/ImPavloh/PlayerTimeLimit/releases).
+1. Descarga la última versión del plugin PlayerTimeLimit desde [GitHub](https://github.com/ImPavloh/PlayerTimeLimit/releases) o desde [SpigotMC](https://www.spigotmc.org/resources/playertimelimit.109315/).
 2. Copia el archivo `.jar` en la carpeta `plugins` de tu servidor de Minecraft.
 3. Reinicia el servidor para cargar el plugin y generar el archivo de configuración `config.yml`.
 
