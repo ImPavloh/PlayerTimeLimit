@@ -1,0 +1,22 @@
+name: PlayerTimeLimit
+version: 1.0
+main: com.pavloh.ptl.PlayerTimeLimit
+api-version: 1.19
+author: Pavloh
+description: Plugin que limita el tiempo de juego
+
+commands:
+  tiempo:
+    description: Comando principal para gestionar el tiempo de juego de los jugadores
+    usage: "/tiempo [resetear <jugador>|ver <jugador>]"
+
+permissions:
+  PlayerTimeLimit.tiempo:
+    description: Permite a los jugadores usar el comando /tiempo
+    default: true
+  PlayerTimeLimit.resetear:
+    description: Permite reiniciar el tiempo de juego de otros jugadores
+    default: op
+  PlayerTimeLimit.ver:
+    description: Permite ver el tiempo restante de otros jugadores
+    default: op
