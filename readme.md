@@ -41,8 +41,8 @@ infinite: [] # Lista de nombres de jugadores que no tienen límite de tiempo (ad
 ## 📃 Licencia
 >  Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/ImPavloh/PlayerTimeLimit/blob/master/LICENSE) para obtener más información.
 
-Contribuciones 💬
+## 💬 Contribuciones
 > Aprecio las contribuciones :) Si quieres contribuir al desarrollo del plugin, adelante, es bienvenida cualquier contribución.
 
-Soporte 📧
+## 📧 Soporte
 > Para obtener ayuda, informar problemas o hacer preguntas, visita la sección de problemas en GitHub.
